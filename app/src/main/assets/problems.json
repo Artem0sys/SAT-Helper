@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "type": "Math",
+    "condition": "A local landscaping company charges a flat fee of $45 plus $25 per hour for lawn maintenance. If a customer's total bill was $170, which of the following equations can be used to find the number of hours, h, the company worked?",
+    "answers": ["25h + 45 = 170", "45h + 25 = 170", "70h = 170", "25h - 45 = 170"],
+    "correctAnswer": "25h + 45 = 170"
+  },
+  {
+    "id": 2,
+    "type": "Math",
+    "condition": "If x > 0 and 2x² + 7x - 4 = 0, what is the value of x?",
+    "answers": ["0.5", "2", "4", "1"],
+    "correctAnswer": "0.5"
+  },
+  {
+    "id": 3,
+    "type": "Verbal",
+    "condition": "Mainstream media outlets often portray wolves as solitary predators; ________ wolves are highly social animals that live and hunt in structured family units called packs.",
+    "answers": ["furthermore,", "however,", "subsequently,", "for instance,"],
+    "correctAnswer": "however,"
+  },
+  {
+    "id": 4,
+    "type": "Math",
+    "condition": "A researcher studied the relationship between the number of hours spent studying, x, and the exam score, y, for a group of students. The linear regression line is given by y = 4.5x + 52. What does the number 52 represent in this context?",
+    "answers": ["The average increase in score for each hour studied.", "The predicted exam score for a student who studied for 0 hours.", "The minimum number of hours required to pass the exam.", "The highest score achieved on the exam."],
+    "correctAnswer": "The predicted exam score for a student who studied for 0 hours."
+  },
+  {
+    "id": 5,
+    "type": "Verbal",
+    "condition": "Thomas Edison is often credited with inventing the light ________ his team at Menlo Park actually perfected a design based on dozens of earlier patents.",
+    "answers": ["bulb, however", "bulb; however,", "bulb, however,", "bulb; however"],
+    "correctAnswer": "bulb; however,"
+  },
+  {
+    "id": 6,
+    "type": "Math",
+    "condition": "In the xy-plane, the graph of the function f(x) = x² + bx + c has a vertex at (h, k). If f(-2) = f(8), what is the value of h?",
+    "answers": ["2", "3", "5", "6"],
+    "correctAnswer": "3"
+  },
+  {
+    "id": 7,
+    "type": "Math",
+    "condition": "A circle in the xy-plane is defined by the equation x² + y² + 8x - 14y = 7. What is the length of the radius of the circle?",
+    "answers": ["√7", "8", "9", "12"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": 8,
+    "type": "Verbal",
+    "condition": "While many 19th-century geologists believed the Earth's features were formed by sudden, catastrophic events, James Hutton argued for uniformitarianism, the theory that geological processes are ________; that is, the same slow forces we observe today have shaped the planet over vast eons.",
+    "answers": ["immutable", "perpetual", "intermittent", "monolithic"],
+    "correctAnswer": "perpetual"
+  },
+  {
+    "id": 9,
+    "type": "Math",
+    "condition": "If {3i/(2 + i)} = a + bi, where i = √(-1), what is the value of a?",
+    "answers": ["0.6", "1.2", "1.5", "3.0"],
+    "correctAnswer": "0.6"
+  },
+  {
+    "id": 10,
+    "type": "Verbal",
+    "condition": "The author's tone in the passage suggests that while the initial findings were promising, the subsequent failure to replicate the results in a double-blind study rendered the entire hypothesis ________.",
+    "answers": ["tenable", "specious", "redundant", "anomalous"],
+    "correctAnswer": "specious"
+  },
+  {
+    "id": 11,
+    "type": "Math",
+    "condition": "In the system of equations kx - 3y = 4 and 4x - 5y = 7, for what value of k will the system have no solution?",
+    "answers": ["2.4", "2.0", "1.5", "0.8"],
+    "correctAnswer": "2.4"
+  },
+  {
+    "id": 12,
+    "type": "Verbal",
+    "condition": "The director’s latest film is surprisingly ________; while her previous works were known for their grand, sweeping narratives and overt symbolism, this new project is quiet, focused, and almost entirely devoid of metaphor.",
+    "answers": ["pedantic", "austere", "ebullient", "otiose"],
+    "correctAnswer": "austere"
+  },
+  {
+    "id": 13,
+    "type": "Math",
+    "condition": "If (ax + 2)(bx + 7) = 15x² + cx + 14 for all values of x, and a + b = 8, what are the two possible values for c?",
+    "answers": ["31 and 41", "25 and 35", "15 and 20", "10 and 14"],
+    "correctAnswer": "31 and 41"
+  },
+  {
+    "id": 14,
+    "type": "Verbal",
+    "condition": "Despite the team's exhaustive efforts to secure the perimeter, the breach was ________; the hackers had utilized a zero-day vulnerability that was fundamentally impossible to predict with existing security protocols.",
+    "answers": ["inevitable", "contingent", "superfluous", "intermittent"],
+    "correctAnswer": "inevitable"
+  },
+  {
+    "id": 15,
+    "type": "Math",
+    "condition": "A right circular cone has a volume of 24π cubic inches. If the height of the cone is 2 inches, what is the radius, in inches, of the base of the cone?",
+    "answers": ["6", "3", "12", "√12"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": 16,
+    "type": "Verbal",
+    "condition": "For many years, the theory of 'island gigantism' suggested that small species evolve into larger versions when isolated on islands due to a lack of predators; ________, recent studies of pygmy elephants suggest that the opposite—insular dwarfism—is equally prevalent in limited-resource environments.",
+    "answers": ["consequently", "furthermore", "conversely", "specifically"],
+    "correctAnswer": "conversely"
+  },
+  {
+    "id": 17,
+    "type": "Math",
+    "condition": "If f(x) = 3x² - 5x + 2 and g(x) = x - 2, what is the value of f(g(4))?",
+    "answers": ["4", "6", "12", "14"],
+    "correctAnswer": "4"
+  },
+  {
+    "id": 18,
+    "type": "Verbal",
+    "condition": "The artist’s use of light is intended to create a sense of ________; the harsh, high-contrast shadows suggest a world of moral ambiguity and hidden dangers.",
+    "answers": ["levity", "foreboding", "tranquility", "reverence"],
+    "correctAnswer": "foreboding"
+  },
+  {
+    "id": 19,
+    "type": "Math",
+    "condition": "In the xy-plane, the line with equation y = mx passes through the origin and has a slope of {1/7}. Which of the following points lies on the line?",
+    "answers": ["(0, 7)", "(1, 7)", "(7, 1)", "(14, 2)"],
+    "correctAnswer": "(14, 2)"
+  },
+  {
+    "id": 20,
+    "type": "Verbal",
+    "condition": "Although the novel was initially dismissed as a mere ________, contemporary critics have re-evaluated it as a profound meditation on the corrosive nature of unchecked ambition.",
+    "answers": ["masterpiece", "divertissement", "polemic", "anachronism"],
+    "correctAnswer": "divertissement"
+  },
+  {
+    "id": 21,
+    "type": "Math",
+    "condition": "If x² + y² = 10 and xy = 3, what is the value of (x + y)²?",
+    "answers": ["13", "16", "19", "25"],
+    "correctAnswer": "16"
+  },
+  {
+    "id": 22,
+    "type": "Verbal",
+    "condition": "The research suggests that the population decline was not due to a single catastrophic event but was instead the result of a ________ series of environmental stressors that gradually eroded the species' ability to reproduce.",
+    "answers": ["sporadic", "cumulative", "precipitous", "capricious"],
+    "correctAnswer": "cumulative"
+  },
+  {
+    "id": 23,
+    "type": "Math",
+    "condition": "What is the sum of the solutions to the equation |2x - 5| = 9?",
+    "answers": ["2", "5", "7", "9"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 24,
+    "type": "Verbal",
+    "condition": "The senator's speech was characterized by its ________; he avoided direct answers and instead employed complex metaphors that left his actual position on the bill entirely unclear.",
+    "answers": ["candor", "equivocation", "brevity", "lucidity"],
+    "correctAnswer": "equivocation"
+  },
+  {
+    "id": 25,
+    "type": "Math",
+    "condition": "A scientist has two solutions of saline: one is 10% salt and the other is 25% salt. How many liters of the 25% solution must be mixed with the 10% solution to create 30 liters of a 15% salt solution?",
+    "answers": ["10", "15", "20", "25"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": 26,
+    "type": "Verbal",
+    "condition": "In her essay, Woolf argues that the scarcity of women writers in history is not due to a lack of talent but rather to the ________ social and economic conditions that prevented them from pursuing an education.",
+    "answers": ["propitious", "inimical", "ubiquitous", "ephemeral"],
+    "correctAnswer": "inimical"
+  },
+  {
+    "id": 27,
+    "type": "Math",
+    "condition": "If 2³ˣ⁻¹ = 16, what is the value of x?",
+    "answers": ["1", "{5/3}", "2", "3"],
+    "correctAnswer": "{5/3}"
+  },
+  {
+    "id": 28,
+    "type": "Verbal",
+    "condition": "The philosopher’s argument is built on the ________ that all human knowledge is derived solely from sensory experience, a view commonly known as empiricism.",
+    "answers": ["premise", "fallacy", "paradox", "conundrum"],
+    "correctAnswer": "premise"
+  },
+  {
+    "id": 29,
+    "type": "Math",
+    "condition": "In triangle ABC, angle B is a right angle. If sin(A) = {4/5}, what is the value of cos(C)?",
+    "answers": ["{3/5}", "{4/5}", "1", "{5/4}"],
+    "correctAnswer": "{4/5}"
+  },
+  {
+    "id": 30,
+    "type": "Verbal",
+    "condition": "While the technology was originally designed for military surveillance, it has since been ________ for use in environmental conservation, allowing researchers to track endangered species with unprecedented accuracy.",
+    "answers": ["appropriated", "subverted", "circumvented", "maligned"],
+    "correctAnswer": "appropriated"
+  },
+  {
+    "id": 31,
+    "type": "Math",
+    "condition": "The population of a certain bacteria culture triples every 4 hours. If the initial population is P, which of the following expressions represents the population after t hours?",
+    "answers": ["P(3)ᵗ⁄⁴", "P(3)⁴ᵗ", "P(4)ᵗ⁄³", "3P(t ∕ 4)"],
+    "correctAnswer": "P(3)ᵗ⁄⁴"
+  },
+  {
+    "id": 32,
+    "type": "Verbal",
+    "condition": "The scholar’s analysis was ________; she meticulously deconstructed the foundational myths of the empire, revealing them to be little more than ________ propaganda designed to justify colonial expansion.",
+    "answers": ["incisive ... jingoistic", "superficial ... patriotic", "convoluted ... innocuous", "dogmatic ... benevolent"],
+    "correctAnswer": "incisive ... jingoistic"
+  },
+  {
+    "id": 33,
+    "type": "Math",
+    "condition": "A line is tangent to the circle (x - 3)² + (y + 2)² = 25 at the point (6, 2). What is the slope of this tangent line?",
+    "answers": ["{-3/4}", "{3/4}", "{-4/3}", "{4/3}"],
+    "correctAnswer": "{-3/4}"
+  },
+  {
+    "id": 34,
+    "type": "Verbal",
+    "condition": "Recent neurological research suggests that the brain's plasticity is far more ________ than previously believed; while earlier models posited that neural pathways became relatively fixed after adolescence, current data indicates significant cognitive restructuring can occur well into late adulthood.",
+    "answers": ["robust", "static", "tenuous", "immutable"],
+    "correctAnswer": "robust"
+  },
+  {
+    "id": 35,
+    "type": "Math",
+    "condition": "If the system of equations y = x² - 4x + 7 and y = mx + 3 has exactly one solution, what are the possible values of m?",
+    "answers": ["0 and -8", "2 and -6", "4 and -4", "8 and 0"],
+    "correctAnswer": "0 and -8"
+  },
+  {
+    "id": 36,
+    "type": "Verbal",
+    "condition": "The sunset over the Aegean Sea was truly ________; its beauty was so fleeting and delicate that it seemed more like a dream than a physical reality.",
+    "answers": ["ephemeral", "enduring", "prosaic", "didactic"],
+    "correctAnswer": "ephemeral"
+  },
+  {
+    "id": 37,
+    "type": "Math",
+    "condition": "A bag contains 5 red marbles and 3 blue marbles. If two marbles are drawn at random without replacement, what is the probability that both marbles are red?",
+    "answers": ["{5/14}", "{25/64}", "{5/8}", "{15/56}"],
+    "correctAnswer": "{5/14}"
+  },
+  {
+    "id": 38,
+    "type": "Verbal",
+    "condition": "Proponents of the 'New Urbanism' movement argue that walkable, mixed-use neighborhoods foster stronger community ties; ________, critics contend that such developments often lead to gentrification and the displacement of long-term residents.",
+    "answers": ["nonetheless", "furthermore", "subsequently", "for example"],
+    "correctAnswer": "nonetheless"
+  },
+  {
+    "id": 39,
+    "type": "Math",
+    "condition": "If x¹⁄² × x¹⁄³ = xᵏ for all positive values of x, what is the value of k?",
+    "answers": ["{5/6}", "{1/6}", "{1/5}", "{2/5}"],
+    "correctAnswer": "{5/6}"
+  },
+  {
+    "id": 40,
+    "type": "Verbal",
+    "condition": "In the final stanza of the poem, the speaker's shift from a mournful to a ________ tone suggests a newfound acceptance of the transience of life.",
+    "answers": ["resigned", "belligerent", "facetious", "petulant"],
+    "correctAnswer": "resigned"
+  },
+  {
+    "id": 41,
+    "type": "Math",
+    "condition": "The graph of the quadratic function g passes through the points (-1, 0), (5, 0), and (2, -9). What is the equation of g(x)?",
+    "answers": ["g(x) = (x - 2)² - 9", "g(x) = (x + 2)² - 9", "g(x) = x² - 4x - 5", "g(x) = x² + 4x - 5"],
+    "correctAnswer": "g(x) = (x - 2)² - 9"
+  },
+  {
+    "id": 42,
+    "type": "Verbal",
+    "condition": "The CEO's ________ style of management, characterized by a refusal to delegate and an obsession with minute details, eventually led to widespread burnout among the senior executive team.",
+    "answers": ["micromanaging", "laissez-faire", "egalitarian", "visionary"],
+    "correctAnswer": "micromanaging"
+  },
+  {
+    "id": 43,
+    "type": "Math",
+    "condition": "Two similar cylinders have surface areas in the ratio 4:9. If the volume of the smaller cylinder is 16π, what is the volume of the larger cylinder?",
+    "answers": ["54π", "36π", "24π", "81π"],
+    "correctAnswer": "54π"
+  },
+  {
+    "id": 44,
+    "type": "Verbal",
+    "condition": "The passage implies that the primary motivation for the explorers was not the acquisition of wealth, but rather a ________ desire to chart the unknown reaches of the Antarctic continent.",
+    "answers": ["disinterested", "mercenary", "mundane", "frivolous"],
+    "correctAnswer": "disinterested"
+  },
+  {
+    "id": 45,
+    "type": "Math",
+    "condition": "In the unit circle, if an angle θ in standard position has a terminal side that passes through the point (-√3 ∕ 2, 1 ∕ 2), what is the value of tan(θ)?",
+    "answers": ["{-√3/3}", "-√3", "{√3/3}", "√3"],
+    "correctAnswer": "{-√3/3}"
+  },
+  {
+    "id": 46,
+    "type": "Verbal",
+    "condition": "The architecture of the cathedral is truly awe-inspiring ________ its soaring Gothic arches and intricate stained-glass windows create an atmosphere of profound spiritual contemplation.",
+    "answers": [":", ";", ",", "—"],
+    "correctAnswer": ":"
+  },
+  {
+    "id": 47,
+    "type": "Math",
+    "condition": "When the polynomial p(x) is divided by (x - 3), the remainder is 5. Which of the following must be true?",
+    "answers": ["p(3) = 5", "p(5) = 3", "p(-3) = 5", "x - 3 is a factor of p(x) - 5"],
+    "correctAnswer": "p(3) = 5"
+  },
+  {
+    "id": 48,
+    "type": "Verbal",
+    "condition": "The primary purpose of the passage is to ________.",
+    "answers": ["challenge a prevailing scientific consensus", "chronicle the history of a specific artistic movement", "advocate for a particular policy change", "reconcile two seemingly contradictory theories"],
+    "correctAnswer": "challenge a prevailing scientific consensus"
+  },
+  {
+    "id": 49,
+    "type": "Math",
+    "condition": "A factory produces two types of widgets. Widget A requires 2 hours of labor and Widget B requires 3 hours. The factory has a maximum of 120 labor hours per day and must produce at least 10 of each widget. Which of the following inequalities represents the possible number of Widget A (x) and Widget B (y) that can be produced?",
+    "answers": ["2x + 3y ≤ 120, x ≥ 10, y ≥ 10", "2x + 3y ≥ 120, x ≤ 10, y ≤ 10", "3x + 2y ≤ 120, x ≥ 10, y ≥ 10", "2x + 3y ≤ 120, x + y ≥ 20"],
+    "correctAnswer": "2x + 3y ≤ 120, x ≥ 10, y ≥ 10"
+  },
+  {
+    "id": 50,
+    "type": "Verbal",
+    "condition": "While researching a topic, a student has taken the following notes: \n- The James Webb Space Telescope (JWST) was launched in December 2021. \n- It is designed to observe the first stars and galaxies in the universe. \n- The telescope uses infrared light to see through cosmic dust. \n- In July 2022, NASA released the first full-color images from the JWST. \nThe student wants to emphasize the telescope's primary capability. Which choice most effectively uses information from the given notes to accomplish this goal?",
+    "answers": ["Launched in 2021, the JWST uses infrared light to peer through cosmic dust, allowing it to observe the universe's earliest stars and galaxies.", "The JWST, which launched in December 2021, released its first full-color images in July 2022.", "NASA's James Webb Space Telescope was designed to observe the first galaxies by utilizing infrared technology.", "By seeing through cosmic dust with infrared light, the JWST can fulfill its mission of observing the first stars."],
+    "correctAnswer": "Launched in 2021, the JWST uses infrared light to peer through cosmic dust, allowing it to observe the universe's earliest stars and galaxies."
+  },
+  {
+    "id": 51,
+    "type": "Math",
+    "condition": "In the triangle PQR, the measure of angle P is 45°, and the measure of angle Q is 75°. If the length of the side PQ is 10, what is the length of the side PR?",
+    "answers": ["5√6", "{10√3/2}", "10√2", "5√2"],
+    "correctAnswer": "5√6"
+  },
+  {
+    "id": 52,
+    "type": "Verbal",
+    "condition": "The newly discovered manuscript reveals that the poet’s early work was much more ________ than previously thought; while her later poems are known for their rigid structure and traditional themes, these early pieces are experimental, fluid, and full of unconventional imagery.",
+    "answers": ["conservative", "avant-garde", "redundant", "pedantic"],
+    "correctAnswer": "avant-garde"
+  },
+  {
+    "id": 53,
+    "type": "Math",
+    "condition": "What is the product of (3 + 2i) and (4 - 5i), where i = √(-1)?",
+    "answers": ["22 - 7i", "2 + 23i", "12 - 10i", "22 + 7i"],
+    "correctAnswer": "22 - 7i"
+  },
+  {
+    "id": 54,
+    "type": "Verbal",
+    "condition": "The economic report suggested that the inflation was not a result of increased demand ________ it was primarily driven by supply chain disruptions and a sudden spike in energy costs.",
+    "answers": ["; rather,", ", consequently", "; nevertheless,", ", similarly,"],
+    "correctAnswer": "; rather,"
+  },
+  {
+    "id": 55,
+    "type": "Math",
+    "condition": "A set of 15 numbers has a mean of 40 and a standard deviation of 5. If each number in the set is multiplied by 3 and then 10 is added to each result, what is the new standard deviation?",
+    "answers": ["5", "15", "25", "45"],
+    "correctAnswer": "15"
+  },
+  {
+    "id": 56,
+    "type": "Verbal",
+    "condition": "Despite the prevailing myth that the Great Wall of China is a single, continuous structure, it is actually a ________ of disparate fortifications built by various dynasties over several centuries.",
+    "answers": ["conglomeration", "monolith", "dichotomy", "precursor"],
+    "correctAnswer": "conglomeration"
+  },
+  {
+    "id": 57,
+    "type": "Math",
+    "condition": "In the xy-plane, the circle with equation (x - 5)² + (y + 3)² = 25 intersects the line y = 1 at two points. What is the distance between these two points?",
+    "answers": ["3", "6", "8", "10"],
+    "correctAnswer": "6"
+  },
+  {
+    "id": 58,
+    "type": "Verbal",
+    "condition": "The author’s argument that technology is inherently neutral has been ________ by several prominent sociologists who contend that any tool carries the biases and intentions of its creators.",
+    "answers": ["corroborated", "repudiated", "sanctioned", "exacerbated"],
+    "correctAnswer": "repudiated"
+  },
+  {
+    "id": 59,
+    "type": "Math",
+    "condition": "A sector of a circle with a radius of 12 has an arc length of 4π. What is the area of this sector?",
+    "answers": ["24π", "48π", "12π", "144π"],
+    "correctAnswer": "24π"
+  },
+  {
+    "id": 60,
+    "type": "Verbal",
+    "condition": "While the project was initially viewed with ________, the team’s persistence and eventual success turned even the most vocal critics into enthusiastic supporters.",
+    "answers": ["skepticism", "veneration", "aplomb", "alacrity"],
+    "correctAnswer": "skepticism"
+  },
+  {
+    "id": 61,
+    "type": "Math",
+    "condition": "In the unit circle, the point (a, b) lies on the terminal side of an angle θ in standard position. If cos(θ) = {-1/2} and sin(θ) > 0, what is the value of tan(θ)?",
+    "answers": ["-√3", "√3", "{-1/√3}", "{1/√3}"],
+    "correctAnswer": "-√3"
+  },
+  {
+    "id": 62,
+    "type": "Verbal",
+    "condition": "The architecture of the ancient temple was remarkably ________; every stone was carved with such precision and detail that it seemed more like a work of fine art than a structural element.",
+    "answers": ["ornate", "prosaic", "utilitarian", "monotonous"],
+    "correctAnswer": "ornate"
+  },
+  {
+    "id": 63,
+    "type": "Math",
+    "condition": "When the polynomial f(x) = 2x³ - 5x² + kx - 8 is divided by (x - 2), the remainder is 10. What is the value of k?",
+    "answers": ["5", "9", "11", "13"],
+    "correctAnswer": "11"
+  },
+  {
+    "id": 64,
+    "type": "Verbal",
+    "condition": "The scientist’s findings were so ________ that they effectively dismantled a century of biological theory, forcing researchers to completely rethink the mechanisms of cellular evolution.",
+    "answers": ["subversive", "derivative", "inconsequential", "stagnant"],
+    "correctAnswer": "subversive"
+  },
+  {
+    "id": 65,
+    "type": "Math",
+    "condition": "If f(x) = x² - 4 and g(x) = √(x + 5), what is the value of f(g(11))?",
+    "answers": ["4", "12", "16", "20"],
+    "correctAnswer": "12"
+  },
+  {
+    "id": 66,
+    "type": "Verbal",
+    "condition": "Recent evidence from archaeological sites in Mesopotamia suggests that early urban centers were far more ________ than previously assumed; social hierarchies were flexible, and resources were often shared across communal networks.",
+    "answers": ["egalitarian", "stratified", "despotic", "clandestine"],
+    "correctAnswer": "egalitarian"
+  },
+  {
+    "id": 67,
+    "type": "Math",
+    "condition": "A jar contains 4 red balls, 6 blue balls, and 10 green balls. If two balls are drawn at random without replacement, what is the probability that both balls are blue?",
+    "answers": ["{3/38}", "{9/100}", "{3/10}", "{1/19}"],
+    "correctAnswer": "{3/38}"
+  },
+  {
+    "id": 68,
+    "type": "Verbal",
+    "condition": "The playwright’s use of ________ was intended to challenge the audience's perceptions; by presenting the protagonist’s moral failings as virtues, the play forced viewers to question their own ethical frameworks.",
+    "answers": ["irony", "allegory", "paradox", "euphemism"],
+    "correctAnswer": "irony"
+  },
+  {
+    "id": 69,
+    "type": "Math",
+    "condition": "In a certain data set, the first quartile is 25 and the third quartile is 60. Which of the following values would be considered an outlier according to the 1.5 × IQR rule?",
+    "answers": ["-10", "0", "85", "115"],
+    "correctAnswer": "115"
+  },
+  {
+    "id": 70,
+    "type": "Verbal",
+    "condition": "Although the treaty was signed with great fanfare, its actual impact on regional stability was ________; border skirmishes continued unabated, and the underlying territorial disputes remained unresolved.",
+    "answers": ["negligible", "paramount", "efficacious", "auspicious"],
+    "correctAnswer": "negligible"
+  },
+  {
+    "id": 71,
+    "type": "Math",
+    "condition": "Which of the following points (x, y) is in the solution set of the system of inequalities y > 2x - 3 and y < -x + 4?",
+    "answers": ["(1, 1)", "(2, 0)", "(0, 0)", "(3, 2)"],
+    "correctAnswer": "(0, 0)"
+  },
+  {
+    "id": 72,
+    "type": "Verbal",
+    "condition": "The philosopher’s writing is often described as ________; even seasoned scholars find it difficult to navigate the dense, winding arguments and obscure references that characterize his work.",
+    "answers": ["recondite", "lucid", "redundant", "banal"],
+    "correctAnswer": "recondite"
+  },
+  {
+    "id": 73,
+    "type": "Math",
+    "condition": "A circle has its center at (-2, 4) and passes through the point (1, 8). What is the equation of the circle?",
+    "answers": ["(x + 2)² + (y - 4)² = 25", "(x - 2)² + (y + 4)² = 25", "(x + 2)² + (y - 4)² = 5", "(x - 2)² + (y + 4)² = 5"],
+    "correctAnswer": "(x + 2)² + (y - 4)² = 25"
+  },
+  {
+    "id": 74,
+    "type": "Verbal",
+    "condition": "The restoration of the old opera house was a ________ undertaking; it required thousands of hours of skilled labor and millions of dollars to return the building to its original splendor.",
+    "answers": ["herculean", "perfunctory", "cursory", "frivolous"],
+    "correctAnswer": "herculean"
+  },
+  {
+    "id": 75,
+    "type": "Math",
+    "condition": "If the sum of the solutions to the equation x² + kx - 15 = 0 is 8, what is the product of the solutions?",
+    "answers": ["-15", "15", "8", "-8"],
+    "correctAnswer": "-15"
+  },
+  {
+    "id": 76,
+    "type": "Verbal",
+    "condition": "While many students find the logic puzzles to be ________, they are actually an excellent way to develop the critical thinking skills necessary for advanced mathematics.",
+    "answers": ["vexing", "exhilarating", "redundant", "facile"],
+    "correctAnswer": "vexing"
+  },
+  {
+    "id": 77,
+    "type": "Math",
+    "condition": "What is the value of x that satisfies the equation {3/(x - 2)} + {2/(x + 1)} = 1?",
+    "answers": ["-1 and 4", "1 and -4", "4 and 5", "2 and -1"],
+    "correctAnswer": "-1 and 4"
+  },
+  {
+    "id": 78,
+    "type": "Verbal",
+    "condition": "The senator’s reputation for ________ made her a trusted mediator in the highly polarized environment of the state legislature.",
+    "answers": ["probity", "mendacity", "venality", "turpitude"],
+    "correctAnswer": "probity"
+  },
+  {
+    "id": 79,
+    "type": "Math",
+    "condition": "A certain isotope has a half-life of 20 years. If the initial amount of the isotope is 100 grams, how many grams will remain after 60 years?",
+    "answers": ["12.5", "25", "50", "33.3"],
+    "correctAnswer": "12.5"
+  },
+  {
+    "id": 80,
+    "type": "Verbal",
+    "condition": "The film’s plot is famously ________; viewers often have to watch it multiple times just to understand the basic timeline of events.",
+    "answers": ["convoluted", "straightforward", "transparent", "vacuous"],
+    "correctAnswer": "convoluted"
+  },
+  {
+    "id": 81,
+    "type": "Math",
+    "condition": "If √(x + 7) - √x = 1, what is the value of x?",
+    "answers": ["9", "16", "25", "49"],
+    "correctAnswer": "9"
+  },
+  {
+    "id": 82,
+    "type": "Verbal",
+    "condition": "Despite the ________ reviews from critics, the play was a massive commercial success, selling out every performance during its six-month run.",
+    "answers": ["tepid", "glowing", "enthusiastic", "laudatory"],
+    "correctAnswer": "tepid"
+  },
+  {
+    "id": 83,
+    "type": "Math",
+    "condition": "Two triangles are similar. The ratio of their corresponding sides is 2:5. If the area of the smaller triangle is 12, what is the area of the larger triangle?",
+    "answers": ["30", "60", "75", "150"],
+    "correctAnswer": "75"
+  },
+  {
+    "id": 84,
+    "type": "Verbal",
+    "condition": "The author’s use of ________ in the final chapter was a masterstroke; by leaving the protagonist’s fate unresolved, she forced readers to ponder the themes of the novel long after they had finished reading.",
+    "answers": ["ambiguity", "closure", "exposition", "redundancy"],
+    "correctAnswer": "ambiguity"
+  },
+  {
+    "id": 85,
+    "type": "Math",
+    "condition": "The line of best fit for a data set is y = 1.2x + 4.5. If the actual y-value for x = 10 is 15, what is the residual for this point?",
+    "answers": ["-1.5", "1.5", "16.5", "-16.5"],
+    "correctAnswer": "-1.5"
+  },
+  {
+    "id": 86,
+    "type": "Verbal",
+    "condition": "While the company’s profits have been ________ for the last three years, the CEO remains optimistic about the long-term prospects of the business.",
+    "answers": ["stagnant", "burgeoning", "prolific", "robust"],
+    "correctAnswer": "stagnant"
+  },
+  {
+    "id": 87,
+    "type": "Math",
+    "condition": "What is the solution set for the inequality |3x - 6| ≤ 9?",
+    "answers": ["-1 ≤ x ≤ 5", "x ≤ 5", "x ≥ -1", "-5 ≤ x ≤ 1"],
+    "correctAnswer": "-1 ≤ x ≤ 5"
+  },
+  {
+    "id": 88,
+    "type": "Verbal",
+    "condition": "The research team’s methodology was criticized for being ________; they had relied on a small, non-representative sample that made it impossible to generalize their findings.",
+    "answers": ["flawed", "impeccable", "scrupulous", "exhaustive"],
+    "correctAnswer": "flawed"
+  },
+  {
+    "id": 89,
+    "type": "Math",
+    "condition": "The first term of a geometric sequence is 4 and the fourth term is 32. What is the common ratio of the sequence?",
+    "answers": ["2", "4", "8", "√2"],
+    "correctAnswer": "2"
+  },
+  {
+    "id": 90,
+    "type": "Verbal",
+    "condition": "The new legislation was designed to ________ the existing environmental regulations, making it significantly harder for companies to bypass pollution standards.",
+    "answers": ["bolster", "undermine", "circumvent", "nullify"],
+    "correctAnswer": "bolster"
+  },
+  {
+    "id": 91,
+    "type": "Math",
+    "condition": "If f(x) = 2x + 3 and f(g(x)) = 10x - 7, what is g(x)?",
+    "answers": ["5x - 5", "5x - 2", "5x + 5", "2x - 5"],
+    "correctAnswer": "5x - 5"
+  },
+  {
+    "id": 92,
+    "type": "Verbal",
+    "condition": "The scientist’s tone in the report was surprisingly ________; despite the groundbreaking nature of the results, she avoided any grandiose claims and instead focused on the limitations of the study.",
+    "answers": ["understated", "hyperbolic", "flamboyant", "ostentatious"],
+    "correctAnswer": "understated"
+  },
+  {
+    "id": 93,
+    "type": "Math",
+    "condition": "If cos(x) = 0.6 and x is in the fourth quadrant, what is the value of sin(x)?",
+    "answers": ["-0.8", "0.8", "-0.4", "0.4"],
+    "correctAnswer": "-0.8"
+  },
+  {
+    "id": 94,
+    "type": "Verbal",
+    "condition": "In his lecture, the historian emphasized that the revolution was not a sudden explosion of violence but was instead the culmination of ________ social tensions that had been building for decades.",
+    "answers": ["latent", "manifest", "ephemeral", "superficial"],
+    "correctAnswer": "latent"
+  },
+  {
+    "id": 95,
+    "type": "Math",
+    "condition": "What is the distance between the points (3, -2) and (-1, 1) in the xy-plane?",
+    "answers": ["5", "7", "√13", "√17"],
+    "correctAnswer": "5"
+  },
+  {
+    "id": 96,
+    "type": "Verbal",
+    "condition": "The artist’s work is characterized by its ________; she seamlessly blends elements of traditional folk art with modern digital techniques.",
+    "answers": ["eclecticism", "homogeneity", "monotony", "uniformity"],
+    "correctAnswer": "eclecticism"
+  },
+  {
+    "id": 97,
+    "type": "Math",
+    "condition": "In a circle, a chord of length 16 is at a distance of 6 from the center. What is the radius of the circle?",
+    "answers": ["10", "12", "14", "√52"],
+    "correctAnswer": "10"
+  },
+  {
+    "id": 98,
+    "type": "Verbal",
+    "condition": "Although the detective was known for his ________, even he was stumped by the complete lack of physical evidence at the crime scene.",
+    "answers": ["perspicacity", "naivety", "indolence", "obtuseness"],
+    "correctAnswer": "perspicacity"
+  },
+  {
+    "id": 99,
+    "type": "Math",
+    "condition": "A solid consists of a cylinder with a radius of 3 and a height of 10, with a hemisphere of the same radius attached to one end. What is the total volume of the solid?",
+    "answers": ["108π", "90π", "117π", "126π"],
+    "correctAnswer": "108π"
+  },
+  {
+    "id": 100,
+    "type": "Verbal",
+    "condition": "The primary purpose of the study was to ________ the long-held belief that birds are the direct descendants of theropod dinosaurs.",
+    "answers": ["substantiate", "refute", "ignore", "marginalize"],
+    "correctAnswer": "substantiate"
+  }
+]
