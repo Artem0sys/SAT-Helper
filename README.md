@@ -21,3 +21,15 @@ An Android app that helps high school students prepare for the SAT exam. I built
 ## 📱 How It Works Under the Hood
 
 Instead of hardcoding static messages, the app dynamically builds a prompt for the AI at runtime. It takes the specific question text, the available answers, and the correct option, and wraps them into a structured prompt. This guarantees that the AI always provides an accurate, helpful explanation tailored to that exact problem.
+
+## 🚀 My Learning Journey (About this project)
+
+I built this app in about 1.5 months, and the coolest part is that I had zero experience with Kotlin and Android development before this. 
+
+I had to learn everything from scratch on the go:
+* **Kotlin** language basics
+* How to build UI with **Jetpack Compose**
+* How to use the new **Nav3** for switching between screens
+* How to save data using **DataStore**
+
+It was a big challenge for me to learn a completely new tech stack and build a working app in such a short time, but it was a great experience!
